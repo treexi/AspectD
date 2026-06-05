@@ -1,4 +1,0 @@
-int foo = 42;
-
-@foo.foo
-int foo = 42;

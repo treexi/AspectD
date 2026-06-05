@@ -1,7 +1,0 @@
-extension on dynamic {
-  foo([int bar = foo.baz]) {}
-}
-
-extension type foo(dynamic whatnot) {
-  foo([int bar = foo.baz]) {}
-}

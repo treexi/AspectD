@@ -1,4 +1,0 @@
-extension type Foo._(int _x) {
-  int y;
-  Foo(this._x, this.y) : y = 42;
-}

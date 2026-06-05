@@ -1,8 +1,0 @@
-void foo(String s) {
-  switch (s) {
-    case 'foo') {
-    print('foo');
-  } else {
-    print('bar');
-  }
-}

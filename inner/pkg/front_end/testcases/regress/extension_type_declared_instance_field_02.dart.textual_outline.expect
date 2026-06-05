@@ -1,4 +1,0 @@
-extension type Foo(int _x) {
-  int y;
-  external Foo.secondConstructor();
-}

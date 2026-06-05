@@ -1,3 +1,0 @@
-import 'prefix_vs_declaration.dart' as prefix;
-
-class prefix {}

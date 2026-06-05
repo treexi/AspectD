@@ -1,7 +1,0 @@
-class Color {
-  Color(this.x);
-  Color.red() : x = 1;
-  final int x;
-}
-
-void main() {}

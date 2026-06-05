@@ -1,4 +1,0 @@
-class Bar {
-  get foo => 42;
-  get foo => ~foo;
-}

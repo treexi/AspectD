@@ -1,4 +1,0 @@
-abstract class Foo {
-  Foo(this.foo, this.foo) {}
-  abstract int foo;
-}

@@ -1,5 +1,0 @@
-extension Foo on dynamic {
-  late final foo1 = bar;
-  late final foo2 = baz(0);
-  int baz(int i) {}
-}

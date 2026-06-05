@@ -1,4 +1,0 @@
-Errors: {
-}
-static method /* from org-dartlang-debug:synthetic_debug_expression */ debugExpr(#lib1::ExtensionType% /* erasure=dart.core::String, declared=! */ input) → dynamic
-  return #lib1::ExtensionType|get#value(input);

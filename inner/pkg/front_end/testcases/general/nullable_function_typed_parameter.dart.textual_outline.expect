@@ -1,4 +1,0 @@
-class C {
-  void Function() f;
-  C(void f()?) : f = (f ?? () {});
-}

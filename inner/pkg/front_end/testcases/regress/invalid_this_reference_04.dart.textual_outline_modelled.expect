@@ -1,3 +1,0 @@
-class Foo {
-  int bar({dynamic baz = this}) => 42;
-}

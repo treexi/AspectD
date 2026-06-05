@@ -1,7 +1,0 @@
-class Sub extends Super {
-  foo({num x, Symbol x2, bool x3}) {}
-}
-
-class Super {
-  foo({num x, String y}) {}
-}

@@ -1,3 +1,0 @@
-extension type Foo._(int _x) {
-  Foo(this._x, int bar) {}
-}

@@ -1,2 +1,0 @@
-#!æbler
-void foo() {}

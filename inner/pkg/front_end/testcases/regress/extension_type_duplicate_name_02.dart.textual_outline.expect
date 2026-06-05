@@ -1,6 +1,0 @@
-int DuplicateName = 42;
-
-extension type DuplicateName._(int _x) {
-  static set bar(int newBar) {}
-  int get bar => 42;
-}

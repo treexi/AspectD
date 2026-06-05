@@ -1,9 +1,0 @@
-class A {
-  A(this.x)
-      : y = (() {
-          x = 3;
-        });
-  var x, y;
-}
-
-main() {}

@@ -1,5 +1,0 @@
-class Foo {
-  @x2
-  int? a, b;
-  int x2 = 42;
-}

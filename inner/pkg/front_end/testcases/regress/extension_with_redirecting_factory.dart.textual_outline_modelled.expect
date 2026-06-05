@@ -1,3 +1,0 @@
-extension Foo on String {
-  factory Foo({ this.fooX }) = Foobar;
-}

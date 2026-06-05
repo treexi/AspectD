@@ -1,3 +1,0 @@
-part 'part_with_import_part.dart';
-
-method1() {}

@@ -1,7 +1,0 @@
-extension type Foo(dynamic _foo) {
-  Foo.bar() : _foo = this();
-}
-
-extension on dynamic {
-  Foo.bar() : _foo = this();
-}

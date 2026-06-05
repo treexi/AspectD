@@ -1,7 +1,0 @@
-class Sub extends Super {
-  foo<X extends bool>() {}
-}
-
-class Super {
-  foo<X extends String>() {}
-}

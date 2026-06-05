@@ -1,5 +1,0 @@
-extension GeneralGeneric<T> on T {
-  T method() => this;
-}
-
-main() {}

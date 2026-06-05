@@ -1,9 +1,0 @@
-library;
-import self as self;
-
-static method main() → dynamic {
-  dynamic x;
-  dynamic y;
-  x = 42;
-  y = x;
-}
